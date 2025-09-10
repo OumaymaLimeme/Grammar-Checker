@@ -26,6 +26,11 @@ Built with **Next.js, React, TailwindCSS**, and integrated with the **Hugging Fa
 
 Clone the repository:
 
-```bash
-git clone https://github.com/OumaymaLimeme/Grammar-Checker.git
-cd Grammar-Checker
+
+This is a **demo project** showcasing a simple grammar-checking web application.  
+It supports **English, French, and German**, and uses the **Hugging Face API** to provide grammar suggestions in real-time.  
+
+
+https://github.com/user-attachments/assets/7cc246cc-9b99-40c5-ad26-b35017174815
+
+
