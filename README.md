@@ -33,4 +33,6 @@ It supports **English, French, and German**, and uses the **Hugging Face API** t
 
 https://github.com/user-attachments/assets/7cc246cc-9b99-40c5-ad26-b35017174815
 
+[Documentation.pdf](https://github.com/user-attachments/files/22311214/Documentation.pdf)
+
 
